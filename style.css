@@ -1,0 +1,57 @@
+
+.home{
+    height: 800px;
+
+   background-image: url("background\ pic.jpeg");
+}
+#logos{
+    gap: 50px;
+}
+.hope{
+    font-size: 40px;
+    color:white;
+    transition: 0.5s;
+}
+.hope:hover{
+  
+    color:rgb(248, 102, 121);
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.loc{
+    font-size: 40px;
+}   
+
+.name{
+    justify-content: space-evenly;
+}
+.put{
+    font-size: 20px;
+}
+.put:hover{color:rgb(242, 118, 118);}
+#home1{
+    height: 60px;
+width: 100%;}
+#about{
+    height: 60px;
+width: 100%;}
+#education{
+    height: 65px;
+width: 100%;}
+#portfolio{
+    height: 80px;
+width: 100%;}
+#contact{
+    height:30px;
+width: 100%;}
+#ic{
+   font-size:30px ;
+}
+#profile{
+border-radius: 250px;
+}
+.me img{
+    object-fit: cover;
+}
